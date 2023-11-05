@@ -34,7 +34,7 @@ public class LoginActivity extends AppCompatActivity {
     private EditText editText_LEmail, editText_LPassword;
     private ProgressBar progressBar;
     private FirebaseAuth authProfile;
-    private static final String TAG = "LoginActivity";
+    private static final String TAG = "LoginActivity23";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
